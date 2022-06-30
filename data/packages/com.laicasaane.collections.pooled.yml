@@ -1,0 +1,21 @@
+name: com.laicasaane.collections.pooled
+displayName: Collections.Pooled
+description: >-
+  Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue
+  using ArrayPool and Span.
+repoUrl: 'https://github.com/laicasaane/Collections.Pooled'
+parentRepoUrl: 'https://github.com/jtmueller/Collections.Pooled'
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - utilities
+hunter: laicasaane
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'master:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1656589373730
